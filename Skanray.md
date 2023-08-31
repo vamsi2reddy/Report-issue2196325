@@ -387,15 +387,13 @@ ENDFORM
 
 data: wa_itab standard table of L1 in database error ,
       la_itab standard table L2.
-`
+
 data: wa_itab standard table of text-t1001.
       la_itab standard table L2.
 
-data: wa_itab standard table of text-t1002.
+data: wa_itab standard table of text-1002.
       la_itab standard table L3.
-
-data: wa_itab standard table of text-t1003.
-      la_itab standard table L4.
+      
 	  
 
 	  
