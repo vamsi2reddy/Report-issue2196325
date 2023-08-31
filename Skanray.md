@@ -393,6 +393,9 @@ data: wa_itab standard table of text-t1001.
 
 data: wa_itab standard table of text-1002.
       la_itab standard table L3.
+
+data: wa_itab standard table of text-1003.
+      la-itab standard  table L4.
       
 	  
 
