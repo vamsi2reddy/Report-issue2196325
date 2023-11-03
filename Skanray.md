@@ -5,7 +5,7 @@
 DATA: GROUP LIKE RZLLITAB-CLASSNAME VALUE
                                "Parallel processing group.
                                 "SPACE = group default (all
-                                "servers)
+                                "servers).
       WP_AVAILABLE TYPE I,      "Number of dialog work processes
                                 "available for parallel processing
                                 "(free work processes)
