@@ -15,7 +15,6 @@ DATA: GROUP LIKE RZLLITAB-CLASSNAME VALUE
                                 "case of remote RFC exception.
       INFO LIKE RFCSI, C,       "Message text
       JOBS TYPE I VALUE 10,     "Number of parallel jobs	  
-	  X
       SND_JOBS TYPE I VALUE 1,  "Work packets sent for processing
       RCV_JOBS TYPE I VALUE 1,  "Work packet replies received
       EXCP_FLAG(1) TYPE C,      "Number of RESOURCE_FAILUREs
