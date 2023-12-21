@@ -66,12 +66,6 @@ DATA: GROUP LIKE RZLLITAB-CLASSNAME VALUE
 	     TASKNAME (7) TYPE D,
 		 RFCDEST
 
-
-
-
-
-
-*
 * Optional call to SBPT_INITIALIZE to check the
 * group in which parallel processing is to take place.
 * Could be used to optimize sizing of work packets
